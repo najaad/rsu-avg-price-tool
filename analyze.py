@@ -6,7 +6,7 @@ import yfinance as yf
 
 # User Configured values
 COMPANY_TICKER = "MSFT"
-GRANT_DATE = "2025-08-28"
+GRANT_DATE = "2025-08-15"
 DAYS_IN_RANGE = 30
 RSU_GRANT = 500000
 
