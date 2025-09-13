@@ -1,6 +1,6 @@
 # ⭐ RSU Grant Stock Price Analyzer
 
-This Python script uses **Yahoo Finance** (`yfinance`) to calculate the average closing price of a stock over a specified number of days leading up to a RSU (Restricted Stock Unit) grant date. It then calculates the number of whole and fractional shares granted based on a total RSU dollar amount.
+This Python script uses `yfinance` [(GH Repo)](https://github.com/ranaroussi/yfinance) to calculate the average closing price of a stock over a specified number of days leading up to a RSU (Restricted Stock Unit) grant date. It then calculates the number of whole and fractional shares granted based on a total RSU dollar amount.
 
 ## ⭐ What It Does
 
